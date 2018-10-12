@@ -1,0 +1,24 @@
+{
+  "name": "wifdbut",
+  "version": "1.0.0",
+  "description": "I hope this never goes to production...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroorez/wifdbut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroorez/wifdbut/issues"
+  },
+  "homepage": "https://github.com/pedroorez/wifdbut#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "koa": "^2.5.3",
+    "kue": "^0.11.6"
+  }
+}
